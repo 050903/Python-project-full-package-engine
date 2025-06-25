@@ -1,4 +1,3 @@
-```markdown
 # 🗂️ Project Workspace Overview
 
 This repository contains a collection of diverse projects, ranging from AI applications and games to data analysis tools and utility scripts. Below is an overview of each project, including its purpose and key directories (where applicable).
@@ -135,4 +134,3 @@ To effectively explore and utilize these projects, consider the following recomm
 * **Machine Learning Projects:** For projects involving Machine Learning (ML), look for common directories like `data/` (for raw data), `models/` (for trained ML models), and sometimes `notebooks/` (for Jupyter notebooks used in development or analysis).
 * **GUI/Web Applications:** Graphical User Interface (GUI) or web applications typically have dedicated directories such as `app/`, `gui/`, or `frontend/`.
 * **Game Projects:** Most game projects will have a `main.py` file that serves as the primary entry point for running the game.
-```
